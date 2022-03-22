@@ -28,6 +28,17 @@
 (미쉐린 pdf MediaDay)[https://www.michelin.com/en/newsroom/media-day-michelin-2021/manufacture/] 이미지
 
 
+(미쉐린 동영상파일(시뮬레이션))[https://cosmotech.com/resources/article/fyf-michelin-uses-simulation-digital-twin-for-strategic-sourcing/]
+How Michelin Uses Simulation Digital Twin Technology to Optimize Its Global Profit Margin by 5%
+Microsoft Azure + cosmotech
+(뮈쉐린 디지털트랜스포메이션 추진전략 동영상)[https://digitaltransformation.co.kr/%EB%AF%B8%EC%89%98%EB%A6%B0michelin%EC%9D%98-%EB%94%94%EC%A7%80%ED%84%B8%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A9%94%EC%9D%B4%EC%85%98-%EC%B6%94%EC%A7%84%EC%A0%84%EB%9E%B5/]
+moniort the present Track Predict
+미쉐린의 RFID program leader Jerôme Barrand씨는 다음과 같이 말했습니다.
+
+RFID는 타이어 관리의 효율화와 업무 최적화 달성에 중요할 뿐만 아니라, 각 타이어에서 얻을 수 있는 관련 데이터를 통해 고객 체험 향상에도 도움이 됩니다. 타이어 내장형 RFID 태그는 개별 타이어가 생산 후 폐기될 때까지 관리할 수 있는 유일한 수단입니다. 무라타 제작소와의 공동 개발로 성능과 비용면에서 더 큰 시장을 향해 나아갈 수 있게 되었습니다. 벌써 400만개 이상의 미쉐린 타이어에 내장되어 있는 본 제품은, 향후 다른 타이어 메이커에서도 적용이 기대되어 시장 전체의 채용이 한층 더 가속될 것입니다.
+
+(타이어 안에서도 안정적인 통신이 가능한 고내구성 RFID 모듈을 미쉐린과 공동개발 ～미쉐린 상용차용에 내장 개시, 2024년부터 승용차 타이어용으로도 채용～
+)[https://www.murata.com/ko-kr/news/rfid/rfid/2021/1213]
 ############################2. 브릿지스톤#####################
 
 
@@ -35,6 +46,8 @@
 
 41~
 (브릿지스톤세계홈페이지)[https://www.bridgestone.com/responsibilities/library/pdf/sr2020.pdf]
+(Bridgestone announces US$40.6m project to digitize eight European factories
+)[https://www.tiretechnologyinternational.com/news/factory-logistics/bridgestone-announces-us40-6m-project-to-digitize-eight-european-factories.html]
 
 tatabanya bridgestone
 
