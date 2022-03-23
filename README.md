@@ -124,3 +124,5 @@ Bridgestone Americas has made a minority investment in tire sensor and data mana
 
 https://www.linkedin.com/pulse/amazing-ways-goodyear-uses-artificial-intelligence-iot-bernard-marr
 
+(향후 5년간 프랑스 아미엔스에 있는 타이어 제조 공장을 현대화할 계획을 발표했다. 제안된 프로젝트는 전기 및 하이브리드 차량을 포함한 프리미엄, 대형 림 직경 소비자 타이어의 지속 가능하고 혁신적인 생산을 위해 높은 수준의 디지털화, 자동화 및 장비 업그레이드를 통해 공장의 경쟁력을 강화할 것입니다.)[https://www.tiretechnologyinternational.com/news/manufacturing-facilities/five-year-plan-to-modernize-goodyears-amiens-plant.html]
+
