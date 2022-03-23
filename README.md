@@ -54,6 +54,21 @@ RFID는 타이어 관리의 효율화와 업무 최적화 달성에 중요할 �
 
 ############################2. 브릿지스톤#####################
 
+
+**최신**
+이자료좋음 
+중장기 계획
+(2page 하단부)[https://www.bridgestone.com/ir/library/strategy/#anc2022]
+
+
+(Cyberattack Prompts Bridgestone Plant Closures)[https://www.appviewx.com/blogs/cyberattack-prompts-bridgestone-plant-closures/]
+
+
+
+
+
+
+
 (DX관련 내용)[https://futureiot.tech/how-bridgestone-is-innovating-smarter-mobility/] Bridgestone 3.0   Smart Strain Sensor
 
 
