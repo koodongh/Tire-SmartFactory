@@ -88,16 +88,6 @@ A global leader in tires and mobility solutions, Bridgestone is leveraging smart
 (Bridgestone announces US$40.6m project to digitize eight European factories
 )[https://www.tiretechnologyinternational.com/news/factory-logistics/bridgestone-announces-us40-6m-project-to-digitize-eight-european-factories.html]
 
-(최신자료:A Conversation with Manufacturing Leaders at Bridgestone.)[https://reverscore.com/a-conversation-with-manufacturing-leaders-at-bridgestone/]
-
-10 or 15 years ago things were very different. For example, one of my first improvements here was related to barcodes for inventory control. So the operators started increasing their skills to interact with machines and operate new touch devices and processes. Technology has been growing a lot. Rever is one example of where operators now have the skills to handle technology devices and are able to manage continuous improvement activities to make continuous improvement easier.
-
-(최신자료: 논문)[https://www.researchgate.net/publication/347041305_Digital_Transformation_Revolution_with_Digital_Twin_Technology]
-
-Tire manufacturer Bridgestone has been using sensor data and enhanced Digital Twin simulations for R&D studies for several years to improve tire life and performance. The life of a tire is heavily influenced by numerous factors such as load, speed, road  conditions, and  driving behavior,  and  a Digital Twin  gives  the  firm  insight  into  how  these  interrelated conditions  affect  tire  performance  by  simulating  various driving conditions. It  has been  stated by  the  digital  strategy and  engineering  directors  that  studies  on  the  Digital  Twin technology  will  continue  in  order  to  increase  profitability, maintain  competitive  advantage  and  increase  efficiency  in terms of time
-
-
-
 tatabanya bridgestone
 
 Bridgestone collaborates with Scoobic to provide premium tyres, maintenance and telematics for its electric vehicles, and boost sustainable last-mile mobility
